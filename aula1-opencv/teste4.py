@@ -1,6 +1,6 @@
 import cv2
 
-img1 = cv2.imread("exemplo.png")
+img1 = cv2.imread("image.png")
 img2 = cv2.imread("exemplo2.png")
 
 print("Imagem 1:", img1.shape, img1.dtype)
